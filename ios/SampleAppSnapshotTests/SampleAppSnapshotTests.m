@@ -2,7 +2,7 @@
 #import <XCTest/XCTest.h>
 
 #import <RCTTest/RCTTestRunner.h>
-#import "RCTRootView.h"
+#import <React/RCTRootView.h>
 
 @interface SampleAppSnapshotTests : XCTestCase {
   RCTTestRunner *_runner;
